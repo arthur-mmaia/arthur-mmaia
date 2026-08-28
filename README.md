@@ -1,4 +1,4 @@
-# Olá! Eu sou [Arthur Mariano Maia]
+# Olá! Eu sou Arthur Mariano Maia
 
 - **Estudante de Sistemas para Internet** na **Fatec**  
 - Ex-estudante de **Programação de Jogos Digitais** na **Etec**
